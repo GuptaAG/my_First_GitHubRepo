@@ -1,6 +1,6 @@
 import streamlit
 import pandas
-import snoflake.connector
+import snowflake.connector
 
 streamlit.title('Good, Mornig dear 🥗 🐔 🥑🍞')
 streamlit.header('Ready Fast for BreakFast !!')
